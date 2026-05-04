@@ -20,15 +20,10 @@
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pablo-HAP&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
-</div>
-
 ---
 
 **Backend Developer**
+
 Backend Developer focused on Java and Spring Boot, with experience building
 full-stack applications using React and SQL.
 
@@ -49,7 +44,7 @@ expanding into AWS and cloud computing.
 
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=c9a84c)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![C++](https://img.shields.io/badge/C%2B%2B-111?logo=c%2B%2B&logoColor=c9a84c)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B&logoColor=c9a84c)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)

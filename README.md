@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pablo-HAP/README/main/banner.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/Pablo-HAP/Pablo-HAP/main/banner.jpg" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -49,6 +49,9 @@ expanding into AWS and cloud computing.
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+
 
 </div>
 

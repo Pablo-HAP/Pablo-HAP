@@ -51,7 +51,8 @@ expanding into AWS and cloud computing.
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=TypeScript&logoColor=c9a84c)
+![Node.js](https://img.shields.io/badge/node.js-111?style=for-the-badge&logo=Node.js&logoColor=c9a84c)
 
 </div>
 

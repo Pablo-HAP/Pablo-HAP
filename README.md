@@ -62,7 +62,7 @@ expanding into AWS and cloud computing.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pablo-HAP&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Pablo-HAP&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
 
 <br/><br/>
 
